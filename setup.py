@@ -25,7 +25,7 @@ with open("README.md", "r") as fh:
 packages = setuptools.find_packages()
 
 setuptools.setup(
-    name="jmpy3",
+    name="inscript-py",
     version=version,
     author="Boris",
     license="MIT",
